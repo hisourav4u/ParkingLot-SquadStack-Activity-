@@ -39,9 +39,9 @@ You can provide input file (pre-written) during execution through shell/cmd or y
 
 To run the activity - 
 
-1. Run "python ParkingLot.py" in shell/cmd to run without any input test case file. 
+1. Run `python ParkingLot.py` in shell/cmd to run without any input test case file. 
   
-2. To run with an input file, execute "python ParkingLot.py -f input.txt". (input.txt file already provided. You can modify the inputs as needed)
+2. To run with an input file, execute `python ParkingLot.py -f input.txt`. (input.txt file already provided. You can modify the inputs as needed)
 
 
 
