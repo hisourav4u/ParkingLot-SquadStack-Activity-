@@ -24,7 +24,7 @@ Return all Slot Numbers(Comma-separated) of all cars which have driver with age=
 Return slot number for the car with registration number “RegNo”
 
 5. "Leave n". 
-Vacate the slot number n from the parking lot, i.e. car which was parked at slot number n has left the space if there exists no car at slot number n, print “Slot already vacant”
+Vacate the slot number n from the parking lot, i.e. car which was parked at slot number n has left the space. If there exists no car at slot number n, print “Slot already vacant”
 
 6. "Vehicle_registration_number_for_driver_of_age x". 
 Get all parked vehicle registration numbers of cars parked by the driver of age x
@@ -39,7 +39,7 @@ You can provide input file (pre-written) during execution through shell/cmd or y
 
 To run the activity - 
 
-1. Run `python ParkingLot.py` in shell/cmd to run without any input test case file. 
+1. Run `python ParkingLot.py`  in shell/cmd to run without any input test case file. 
   
 2. To run with an input file, execute `python ParkingLot.py -f input.txt`. (input.txt file already provided. You can modify the inputs as needed)
 
